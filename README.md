@@ -1,0 +1,10 @@
+- 📃 17 Years old.
+- 📃 Uses cheats on KoGaMa.
+- 📃 Mods applications.
+- ✔️ Likes teasing other people.
+- ✔️ Has a sarcastic characterity.
+- ✔️ Doesn't cares much things.
+- ✔️ Coding C# since 2015.
+- ❌ Hates Visual Studio 2019 and 2022.
+- ❌ Hates WPF.
+- 📘 Still learning C# completely.
