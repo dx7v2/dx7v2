@@ -5,5 +5,6 @@
 - ✔️ Has a sarcastic characterity.
 - ✔️ Doesn't cares much things.
 - ✔️ Coding C# since 2015.
+- ✔️ Coding C++ since 2021.
 - ❌ Hates Visual Studio 2019 and 2022.
 - ❌ Hates WPF.
