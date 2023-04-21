@@ -1,10 +1,7 @@
-- 📃 17 Years old.
+- 📃 19 Years old.
 - 📃 Knows C# and C++.
 - 📃 Mods applications.
-- ✔️ Likes teasing other people.
-- ✔️ Has a sarcastic characterity.
-- ✔️ Doesn't cares much things.
 - ✔️ Coding C# since 2015.
-- ✔️ Coding C++ since 2021.
+- ✔️ Knowing C++ since 2021.
 - ❌ Hates Visual Studio 2019 and 2022.
 - ❌ Hates WPF.
