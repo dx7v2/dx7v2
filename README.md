@@ -1,7 +1,2 @@
-- 📃 19 Years old.
-- 📃 Knows C# and C++.
-- 📃 Mods applications.
-- ✔️ Coding C# since 2015.
-- ✔️ Knowing C++ since 2021.
-- ❌ Hates Visual Studio 2019 and 2022.
-- ❌ Hates WPF.
+i code stuff
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dx7v2&show_icons=true&theme=dracula)
